@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Joanna Kl
+name: WEARABLES with Joanna Kl
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
@@ -16,6 +16,8 @@ description:
 avatar: https://avatars3.githubusercontent.com/u/9770320?s=400&u=6ba683bc4e6256cf7b54b74ac2ae0330ec06449f&v=4
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Joanna
+
+excerpt_separator: <!--more-->
 
 # CUSTOMIZE
 #
@@ -30,7 +32,7 @@ footer-links:
   flickr:
   github: jonnakl
   instagram:
-  linkedin: 
+  linkedin:
   pinterest:
   twitter: joannakl
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
