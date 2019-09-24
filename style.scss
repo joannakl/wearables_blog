@@ -30,6 +30,20 @@ body {
   width: 100%;
 }
 
+aside {
+  background: #b2c2a3;
+  width: 20%;
+  float: right;
+  padding: 0.25em;
+}
+aside h1 {
+  margin: 0.25em 0.25em 0em 0em;
+}
+@media (max-width: 700px), (max-device-width: 720px) {
+  aside {
+    display: none;
+  }
+}
 
 .screen-reader-text {
   border: 0;
