@@ -26,8 +26,8 @@ body {
 .container {
   margin: 0 auto;
   /*max-width: 740px;*/
-  padding: 0 5%;
-  width: 75%;
+  padding: 0 10px;
+  width: 80%;
 }
 
 aside {
@@ -302,19 +302,20 @@ nav {
 //
 
 .posts > .post {
-  width: 80%;
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  width: 75%;
+  padding: 0 5% 2em 2em;
+  border-bottom: 5px solid $lightGray;
 }
 
 .posts > .post:last-child {
-  width: 80%;
-  padding-bottom: 1em;
+  width: 75%;
+  padding: 0 5% 2em 2em;
   border-bottom: none;
 }
 
 .post {
-  width: 80%;
+  width: 75%;
+  padding: 0 5% 2em 2em;
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
