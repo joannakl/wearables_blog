@@ -12,13 +12,13 @@ I installed Arduino IDE, setup the LilyTiny board interface and I am ready to st
 
 Here is my initial setup
 <center>
-<img src="{{ site.url }}/images/LilyTiny_setup_1.jpg" alt="LilyTiny initial setup" width="200px"/>
+<img src="{{ site.url }}/images/LilyTiny_setup_1.jpg" alt="LilyTiny initial setup" width="400px"/>
 </center>
 
 I used the _Hello world_ program suggested in the tutorial, hit the upload and Yikes! 😥
 
 <center>
-<img src="{{ site.url }}/images/LilyTiny_error_1.jpg" alt="LilyTiny initial setup" width="200px"/>
+<img src="{{ site.url }}/images/LilyTiny_error_1.png" alt="Error with uploading" width="250px"/>
 </center>
 
 Here is what the error says:
