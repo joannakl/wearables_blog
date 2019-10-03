@@ -27,14 +27,15 @@ body {
   margin: 0 auto;
   /*max-width: 740px;*/
   padding: 0 10px;
-  width: 80%;
+  width: 90%;
 }
 
 aside {
-  background: #b2c2a3;
-  width: 20%;
+  background: #e0ebeb;
+  width: 25%;
   float: right;
   padding: 0.25em;
+  font: 0.75em;
 }
 aside h1 {
   margin: 0.25em 0.25em 0em 0em;
@@ -302,19 +303,19 @@ nav {
 //
 
 .posts > .post {
-  width: 75%;
+  width: 70%;
   padding: 0 5% 2em 2em;
   border-bottom: 5px solid $lightGray;
 }
 
 .posts > .post:last-child {
-  width: 75%;
+  width: 70%;
   padding: 0 5% 2em 2em;
   border-bottom: none;
 }
 
 .post {
-  width: 75%;
+  width: 70%;
   padding: 0 5% 2em 2em;
   blockquote {
     margin: 1.8em .8em;
